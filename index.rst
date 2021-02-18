@@ -8,7 +8,9 @@ Welcome to Sample's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   
+   file1.md
 
 
 
